@@ -6,6 +6,25 @@ Create a To-Do List WebApp using HTML, CSS, JavaScript, or any framework you kno
 Outcomes:
 I have created a TO-DO-LIST WebApp using HTML, CSS, and JavaScript. It has a clean and user-friendly interface to interact with the To-Do List application. The input field and buttons are intuitive and accessible. Users can add new tasks to their to-do list. Tasks can be marked as completed, changing their appearance (e.g., strikethrough text). Tasks can be deleted from the list. The application provides immediate visual feedback when tasks are added, completed, or deleted.
 
+Task->3: Student Enrollment Form
+Create a Student Enrollment Form  WebApp using HTML, CSS, JavaScript, or any framework you know. The App should contains buttons and display results.
+
+Outcomes:
+I have created a Student Enrollment Form  WebApp using HTML, CSS, JavaScript.
+User Interface:
+Clean and simple design.
+Fields for Name, Email, Profile, Website, and Course.
+Submit button included.
+Form Handling:
+Form submission without page reload.
+JavaScript captures and displays input values below the form.
+Form Validation:
+Basic HTML5 validation ensures all fields are correctly filled out.
+Displaying Results:
+
+Entered information displayed below the form after submission.
+Form is reset for new entries.
+
 Task->4: Simple-Calculator
 Create a Simple Calculator WebApp using HTML, CSS, JavaScript, or any framework you know. The App should contains buttons and display results.
 
